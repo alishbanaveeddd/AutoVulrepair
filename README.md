@@ -1,4 +1,4 @@
-# AutoVulRepair 🔐
+# Final Year Project - AutoVulRepair 🔐
 
 **Automated Vulnerability Detection, Fuzzing & AI-Powered Repair for C/C++ Code**
 
